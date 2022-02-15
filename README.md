@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-author (c)frankline_bwire
-@knightlypro 
-(c)Notchcom Solutions Kenya 
-Facebook, Youtube
+author Frankline Bwire
+- @knightlypro 
+- (c)Notchcom Solutions Kenya 
+- Facebook, Youtube
 - 🔭 I’m currently working on BACKEND and DATABASE ...
 - 🌱 I’m currently learning Python integration with ORACLE Database ...
 - 👯 I’m looking to collaborate on FUTURE PROJECTS ...
